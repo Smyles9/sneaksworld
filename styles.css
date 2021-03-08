@@ -1,0 +1,36 @@
+@charset "utf-8";
+@import url("webfonts/Black_sneakers/stylesheet.css");
+
+/* CSS Document */
+
+body{
+    background-image: url("img/NYSkyB.jpeg");
+}
+
+
+.Pokeball1{
+  	float: center;
+  width: 20%;
+  padding: 124px;
+
+
+}
+
+.section-1{
+    width: 100%;
+    height:400px;
+}
+h1 {
+    font-family: "Black sneakers";
+    padding-left: 46%;
+    font-size: xx-large;
+    
+}
+
+h2{
+    padding-top: 375px;
+    padding-left: 47%;
+    font-family: "Black sneakers";
+    font-size: xx-large;
+    
+}

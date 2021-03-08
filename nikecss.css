@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+h1{
+	vertical-align: center;
+}
+
+.Globe{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+.NLogo{
+  margin-left: auto;
+  margin-right: auto;
+position: absolute;
+padding-left: 700px;
+}
+
+.BannedVideo{
+    margin-top: 425px;
+}
+
+
+body{
+
+}
+
+.Kylie1{
+    margin-bottom: 350px;
+    margin-left: 200px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.Sheep{
+    top:1950px;
+    left: 700px;
+    position: absolute;
+}
+.Sheep2{
+    top:2320px;
+    left: 1200px;
+    position: absolute;
+}
+.NikeAudio{
+  	float: center;
+  width: 20%;
+  padding-top: 500px;
+}

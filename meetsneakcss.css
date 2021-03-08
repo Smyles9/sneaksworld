@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.sneak{
+    width: 50%;
+    position: absolute;
+}
+
+p{
+    padding-left: 1000px;
+    padding-top: 500px;
+    position: relative;
+}
+
+body{
+    background-color: tomato;
+}

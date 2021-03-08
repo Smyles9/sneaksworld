@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Globe{
+	width: 200px;
+	height: 200px;
+}
+    
+.ALogo{
+  margin-left: auto;
+  margin-right: auto;
+position: absolute;
+    padding-left: 500px;
+}
+
+.RunDMC{
+    padding-top: 200px;
+}
+
+.Kanye1{
+  	float: center;
+  width: 20%;
+  padding: 124px;
+}
+
+p{
+    top:1850px;
+    left: 700px;
+    position: absolute;
+}

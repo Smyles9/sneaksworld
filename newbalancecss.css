@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+.NBLogo{
+  margin-left: auto;
+  margin-right: auto;
+	position: absolute;
+	padding-left: 700px;
+}
+
+ .Globe{
+	width: 200px;
+	height: 200px;
+	position: relative;
+	}
+	
+.Celeb1{
+  	float: center;
+  padding: 10px;
+      width: 30%;
+}
+	
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.SYRE{
+    
+}
